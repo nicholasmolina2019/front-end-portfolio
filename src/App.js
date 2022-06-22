@@ -12,12 +12,12 @@ import Projects from "./pages/Projects";
 
 function App() {
   // URL should have YOUR HEROKU URL for your backend, make sure you include the trailing slash
-  const URL = "http://localhost:4000/";
+  const URL = "https://backend-portfolio123.herokuapp.com/";
 
   return (
     <div className="App">
       <Header />
-      <Switch>
+     <Switch>
         <Route exact path="/">
           <Home />
         </Route>
@@ -27,7 +27,7 @@ function App() {
         <Route path="/about">
           <About URL={URL} />
         </Route>
-      </Switch>
+        </Switch>
       <Footer />
     </div>
   );

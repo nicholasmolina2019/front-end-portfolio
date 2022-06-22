@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-[frontend](https://62a9583ae3e65a34162576c5--musical-starlight-36b39f.netlify.app/)
+[frontend](https://main--musical-starlight-36b39f.netlify.app/projects)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
